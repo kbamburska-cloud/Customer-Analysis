@@ -1,0 +1,16 @@
+customer_id	first_name	last_name	total_policies	total_premium	total_claims	loss_ratio
+113	Henry	Scott	1	1000	2000	2
+109	James	Hall	1	900	1500	1.67
+104	Kate	Taylor	1	600	900	1.5
+105	Mike	Davis	1	800	1200	1.5
+107	Chris	Moore	1	300	400	1.33
+108	Emma	Clark	2	1100	1400	1.27
+102	Anna	Brown	1	250	300	1.2
+112	Olivia	King	2	800	850	1.06
+114	Sophie	Green	1	450	300	0.67
+111	Daniel	Young	1	350	200	0.57
+106	Sara	Miller	1	150	80	0.53
+115	Jack	Adams	1	220	100	0.45
+101	John	Smith	3	470	200	0.43
+110	Laura	Allen	1	200	50	0.25
+103	Tom	Wilson	2	750	100	0.13
