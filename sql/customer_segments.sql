@@ -13,9 +13,9 @@ left join claims c
 on p.policy_id = c.policy_id 
 group by cu.customer_id, cu.first_name, cu.last_name)
 select *,
-CASE
-           WHEN total_premium > 800 THEN 'HIGH_VALUE'
-           WHEN total_premium >= 400 THEN 'MEDIUM_VALUE'
-           ELSE 'LOW_VALUE'
-       END AS customer_segment
+case
+           when total_premium > 800 then 'high_value'
+           when total_premium >= 400 then 'medium_value'
+           else 'low_value'
+       end as customer_segment
 from customer_summary;
