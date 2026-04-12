@@ -1,0 +1,9 @@
+"customer_id","first_name","last_name","total_policies","total_premium","total_claims","loss_ratio"
+113,Henry,Scott,1,1000.00,2000.00,2.00
+109,James,Hall,1,900.00,1500.00,1.67
+104,Kate,Taylor,1,600.00,900.00,1.50
+105,Mike,Davis,1,800.00,1200.00,1.50
+107,Chris,Moore,1,300.00,400.00,1.33
+108,Emma,Clark,2,1100.00,1400.00,1.27
+102,Anna,Brown,1,250.00,300.00,1.20
+112,Olivia,King,2,800.00,850.00,1.06
