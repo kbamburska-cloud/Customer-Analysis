@@ -39,4 +39,4 @@ SQL (PostgreSQL, DBeaver) · Excel (Pivot Tables · Dashboard)
 - `/data` — CSV export
 
 ## Dashboard
-![Dashboard](images/customer_dashboard.png)
+![Dashboard](images/Customer_dashboard.png)
